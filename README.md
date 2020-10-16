@@ -13,7 +13,7 @@
 <br />
 
 
-Hi, I'm [Bharat Kumar](https://bharatchulavista14.wixsite.com/bharat-kumar), an iOS Developer 👨🏽‍💻 living in San Diego, CA, currently, with strong experience with Swift emphasizing UI Design & User Experience. I hold a lot of grid when working on projects which brings me satisfaction after receiving a positive result out of it. Beside's programming, I enjoy playing soccer and traveling different countries, so far traveled 12 countries. I also speak five different languages which are Spanish, English, Catalan, Hindi and Punjabi, I love learning languages because it allows me to expresss in better of myself to others when traveling.
+Hi, I'm [Bharat Kumar](https://bharatchulavista14.wixsite.com/bharat-kumar), an iOS Developer 👨🏽‍💻 living in San Diego, CA. I have strong experience with Swift emphasizing UI Design & User Experience. I hold a lot of grid when working on projects which brings me satisfaction after receiving a positive result out of it. Beside's programming, I enjoy playing soccer and traveling different countries, so far traveled 12 countries. I also speak five different languages which are Spanish, English, Catalan, Hindi and Punjabi, I love learning languages because it allows me to expresss in better of myself to others when traveling.
 
   
 **Talking about Personal Stuffs:**
