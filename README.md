@@ -8,9 +8,6 @@
 <a href="https://www.instagram.com/bharat_ios_dev/">
   <img align="left" alt="Bharat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://leetcode.com/bkumar1/">
-  <img align="left" alt="Bharat's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 
 
 <br />
