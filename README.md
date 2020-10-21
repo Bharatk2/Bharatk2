@@ -13,9 +13,9 @@
 <br />
 
 
-Hi, I'm [Bharat Kumar](https://bharatchulavista14.wixsite.com/bharat-kumar), an iOS Developer 👨🏽‍💻 living in San Diego, CA. I have strong experience with Swift emphasizing on UI Design & User Experience. I hold a lot of grit when working on projects which brings me satisfaction after receiving a positive result out of it. Beside's programming, I enjoy playing soccer and traveling different countries, so far traveled 12 countries. I also speak five different languages which are Spanish, English, Catalan, Hindi and Punjabi, I love learning languages because it allows me to expresss in better of myself to others when traveling.
+Hi, I'm Bharat Kumar, an iOS Developer 👨🏽‍💻 living in San Diego, CA. I am a Lambda School trained with a strong background in Swift, specifically UI Design and User Experience. Producing positive results on my projects brings me great satisfaction. I would describe myself as a person who has grit, I do not give up until I am satisfied with the result. When I’m not programming, I enjoy playing soccer and traveling the world. So far I’ve been able to visit twelve different countries! My hidden talent is that I speak five different languages including, Spanish, English, Catalan, Hindi, and Punjabi. I love being able to connect with others through their language when I travel. 
 
-  
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on some awesome iOS projects;
