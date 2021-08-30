@@ -22,4 +22,4 @@ Hi, I'm Bharat Kumar, an iOS Developer 👨🏽‍💻 living in San Diego, CA. 
 - 🌱 I’m currently learning GraphQL and sharpening my skills on algorithms; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@BharatDevk](https://twitter.com/BharatDevk);
-- 📝[Resume]https://docs.google.com/document/d/1K8DSjACikMpltYy8GR2OqvWSCyqOlUPY/edit?usp=sharing&ouid=118105625501831671482&rtpof=true&sd=true)
+- 📝[Resume](https://docs.google.com/document/d/1K8DSjACikMpltYy8GR2OqvWSCyqOlUPY/edit?usp=sharing&ouid=118105625501831671482&rtpof=true&sd=true)
