@@ -13,7 +13,7 @@
 <br />
 
 
-Hi, I'm Bharat Kumar, an iOS Developer 👨🏽‍💻 living in San Diego, CA. I am a Lambda School trained with a strong background in Swift, specifically UI Design and User Experience. Producing positive results on my projects brings me great satisfaction. I would describe myself as a person who has grit, I do not give up until I am satisfied with the result. When I’m not programming, I enjoy playing soccer and traveling the world. So far I’ve been able to visit twelve different countries! My hidden talent is that I speak five different languages including, Spanish, English, Catalan, Hindi, and Punjabi. I love being able to connect with others through their language when I travel. 
+Hi, I'm Bharat Kumar, an iOS Developer 👨🏽‍💻 living in San Diego, CA. Producing positive results on my projects brings me great satisfaction. I would describe myself as a person who has grit, I do not give up until I am satisfied with the result. When I’m not programming, I enjoy playing soccer and traveling the world. So far I’ve been able to visit twelve different countries! My hidden talent is that I speak five different languages including, Spanish, English, Catalan, Hindi, and Punjabi. I love being able to connect with others through their language when I travel. 
 
 
 **Talking about Personal Stuffs:**
